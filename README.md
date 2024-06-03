@@ -1,1 +1,1 @@
-mo.coinhako.com
+github-webhooks.chia.net
