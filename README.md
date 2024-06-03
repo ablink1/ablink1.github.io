@@ -1,1 +1,1 @@
-github-webhooks.chia.net
+ent-wallet-dev-mainnet.chia.net
