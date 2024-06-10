@@ -1,1 +1,1 @@
-https://travelrule-dev.coinhako.com/
+http://travelrule-dev.coinhako.com/
